@@ -109,7 +109,7 @@ Enumeration of sudo privileges revealed an insecure `NOPASSWD` sudoers entry, al
  
 The complete, formatted penetration test report (PDF/DOCX) with all evidence and screenshots is available here:
  
-- [`Pentest_Report_Rick_and_Morty_CTF_EN.docx`](./Pentest_Report_Rick_and_Morty_CTF_EN.pdf)
+- [`Pentest_Report_Rick_and_Morty_CTF_EN.pdf`](./Pentest_Report_Rick_and_Morty_CTF_EN.pdf)
 ---
  
 ## 👥 Authors
